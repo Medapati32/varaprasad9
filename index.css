@@ -1,0 +1,52 @@
+h1{
+    font-size: 80px;
+    color: #051da9;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 30px;
+    font-family: ui-monospace;
+    color: #de1659;
+    font-weight: 500;
+}
+button{
+    font-size: 20px;
+    color: white;
+    background-color: navy;
+    padding: 13px;
+    border: 0;
+    border-radius: 17px;
+
+}
+div{
+    text-align: center;
+    border: 2px solid red;
+    padding: 178px;
+    background-image: url('https://res.cloudinary.com/dqetcebac/image/upload/v1700304658/adrien-olichon-QzKKVA_aB4c-unsplash_qhkwhf.jpg');
+    background-size: cover;
+    border-radius: 12px;
+    border:0
+}
+marquee{
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 40px;
+    background-color: rgb(118, 118, 217);
+    border-radius: 10px;
+    margin-top:2px;
+    color:white
+
+
+}
+.sp1{
+    color:white;
+    
+}
+.sp2{
+    color:yellow;
+       
+}
+.sp3{
+    color:rgb(13, 237, 13);
+       
+}
